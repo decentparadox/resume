@@ -1,0 +1,12 @@
+body{
+    background: url(./public/images/bg-web-2.png);
+    width: 100%;
+    height: 100%;
+
+}
+.hero{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
